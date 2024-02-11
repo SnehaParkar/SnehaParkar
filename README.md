@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Sneha Parkar, a dedicated web developer passionate about crafting robust and user-friendly web solutions. 
+#  👋  Hi there! I'm Sneha Parkar, a dedicated web developer passionate about crafting robust and user-friendly web solutions. 
 
 <!--
 **SnehaParkar/SnehaParkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
