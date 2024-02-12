@@ -11,7 +11,8 @@
   
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
-    
+   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+   
    <img src="https://github.com/devicons/devicon/blob/master/icons/backbonejs/backbonejs-original-wordmark.svg" title="Backbonejs" alt="Backbonejs" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
