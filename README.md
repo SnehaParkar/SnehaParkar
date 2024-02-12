@@ -2,6 +2,17 @@
 
 ### A dedicated web developer passionate about crafting robust and user-friendly web solutions. 
 
+<strong> View my</strong> [Website](https://snehaparkar.in) &bull; [Resume](https://github.com/SnehaParkar/SnehaParkar.github.io/blob/master/SnehaParkarResume.pdf) &bull; [LinkedIn](https://www.linkedin.com/in/snehaparkar/)
+
+
+
+<!-- 
+//////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////
+------------------------PROJECTS-------------------------
+------------------------PROJECTS-------------------------
+//////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////// -->
 <!--
 **SnehaParkar/SnehaParkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
