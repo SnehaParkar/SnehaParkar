@@ -32,7 +32,7 @@
 
 - :zap: In my free time, I read tech articles and learn new tech.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/snehaparkar/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehaparkar/)
 
 </br>
 
