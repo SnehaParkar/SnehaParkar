@@ -1,6 +1,6 @@
 #  👋  Hi there! My name is Sneha Parkar, 
 
-### A dedicated web developer passionate about crafting robust and user-friendly web solutions. 
+### A versatile developer passionate about crafting immersive experiences for both web and mobile platforms.
 
 
 <div id="header" align="center">
@@ -16,6 +16,29 @@
 </div>
 
 ---
+
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm56OHJlOXdzam50YWFnNDB2ZGU1NGhnOHBpeG1uZWU5d2FranVyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width=600 height=300 />
+</div>
+
+<!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
+
+## :woman_technologist: About Me :
+  
+- :computer: On the web, I specialize in front-end development, bringing designs to life with HTML, CSS, Jquery and JavaScript. I also dive into frameworks like React and Backbone to build dynamic and responsive web applications.
+
+- :iphone:  In the mobile realm, I excel in developing cross-platform applications using frameworks like Flutter. From concept to deployment, I thrive on creating seamless experiences for iOS and Android devices.
+
+- :rocket:  With a strong foundation in both web and mobile development, I'm always exploring new technologies and refining my skills to deliver high-quality solutions that push the boundaries of digital innovation.
+
+- :zap: In my free time, I read tech articles and learn new tech.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/snehaparkar/)
+
+---
+
+
+<!-- https://github.com/devicons/devicon/tree/master/icons -->
 
 ## :hammer_and_wrench: &nbsp;  Languages and Tools :
 
@@ -39,6 +62,8 @@
 
 ---
 
+
+
 <!--   https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 ## :fire: &nbsp;  My Stats :
@@ -49,6 +74,8 @@
 </p>
 
 ---
+
+
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
@@ -61,6 +88,7 @@
 </a>
 </p>
 
+
 <!-- 
 //////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////
@@ -72,13 +100,4 @@
 **SnehaParkar/SnehaParkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
