@@ -9,6 +9,7 @@
 </br>
 
 <div align="center">
+    <a href="https://snehaparkar.in"><img src="https://img.shields.io/badge/snehaparkar.in?style=flat&logo=Google-Chrome&logoColor=white"/></a>
     <a href="https://snehaparkar.in">Website</a> &nbsp; | &nbsp;
     <a href="https://github.com/SnehaParkar/SnehaParkar.github.io/blob/master/SnehaParkarResume.pdf">Resume</a>&nbsp; | &nbsp;
     <a href="https://www.linkedin.com/in/snehaparkar/">Linkedin</a>
