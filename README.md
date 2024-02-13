@@ -6,8 +6,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM5M2R6bjAxaG9uejdrd2tsdDZzbnd2MzZ6N2FrOXhkdWYyZGZybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DLz5I4BGyRSOlbSC3o/giphy.gif" width="120"/>
 </div>
-#
-#
+
+#  
+# 
+
 <div align="center">
     <a href="https://snehaparkar.in">Website</a> &nbsp; | &nbsp;
     <a href="https://github.com/SnehaParkar/SnehaParkar.github.io/blob/master/SnehaParkarResume.pdf">Resume</a>&nbsp; | &nbsp;
