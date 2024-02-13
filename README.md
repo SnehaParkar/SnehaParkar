@@ -6,8 +6,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM5M2R6bjAxaG9uejdrd2tsdDZzbnd2MzZ6N2FrOXhkdWYyZGZybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DLz5I4BGyRSOlbSC3o/giphy.gif" width="120"/>
 </div>
-
-
+</br>
 
 <div align="center">
     <a href="https://snehaparkar.in">Website</a> &nbsp; | &nbsp;
@@ -16,9 +15,11 @@
 </div>
 
 ---
+</br>
+</br>
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm56OHJlOXdzam50YWFnNDB2ZGU1NGhnOHBpeG1uZWU5d2FranVyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width=600 height=300 />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm56OHJlOXdzam50YWFnNDB2ZGU1NGhnOHBpeG1uZWU5d2FranVyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width=600 height=300 />
 </div>
 
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
@@ -36,7 +37,8 @@
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/snehaparkar/)
 
 ---
-
+</br>
+</br>
 
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
 
@@ -62,7 +64,8 @@
 
 ---
 
-
+</br>
+</br>
 
 <!--   https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
@@ -74,8 +77,8 @@
 </p>
 
 ---
-
-
+</br>
+</br>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
