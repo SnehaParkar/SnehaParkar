@@ -8,7 +8,6 @@
 ## :hammer_and_wrench: Languages and Tools :
 
 <div>
-  
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
@@ -29,21 +28,23 @@
 ---
 
 ## :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=snehaparkar&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
-
+<p align="center">
+  <a href="https://github.com/snehaparkar">
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=snehaparkar&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500"/>
+</a>
+</p>
 
 ---
 
 ## ⚙️ &nbsp; GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=snehaparkar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=snehaparkar&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/snehaparkar">
+  <img height="180em" style="margin-right:2em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=snehaparkar&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=snehaparkar&layout=compact&langs_count=8&theme=vision-friendly-dark/>
 </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehaparkar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 //////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////
