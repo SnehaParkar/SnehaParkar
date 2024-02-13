@@ -14,8 +14,6 @@
     <a href="https://www.linkedin.com/in/snehaparkar/">Linkedin</a>
 </div>
 </br>
----
-
 
 
 <div align="center">
@@ -37,8 +35,6 @@
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/snehaparkar/)
 
 </br>
----
-
 
 
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
@@ -63,9 +59,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 </br>
----
-
-
 
 
 <!--   https://github-readme-streak-stats.herokuapp.com/demo/ -->
@@ -78,7 +71,6 @@
 </a>
 </p>
 </br>
----
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -91,7 +83,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=snehaparkar&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
-
+</br>
 
 <!-- 
 //////////////////////////////////////////////////////////
