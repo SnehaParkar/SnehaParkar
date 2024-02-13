@@ -13,10 +13,10 @@
     <a href="https://github.com/SnehaParkar/SnehaParkar.github.io/blob/master/SnehaParkarResume.pdf">Resume</a>&nbsp; | &nbsp;
     <a href="https://www.linkedin.com/in/snehaparkar/">Linkedin</a>
 </div>
-
+</br>
 ---
-</br>
-</br>
+
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm56OHJlOXdzam50YWFnNDB2ZGU1NGhnOHBpeG1uZWU5d2FranVyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width=600 height=300 />
@@ -25,7 +25,7 @@
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 
 ## :woman_technologist: About Me :
-  
+ </br> 
 - :computer: On the web, I specialize in front-end development, bringing designs to life with HTML, CSS, Jquery and JavaScript. I also dive into frameworks like React and Backbone to build dynamic and responsive web applications.
 
 - :iphone:  In the mobile realm, I excel in developing cross-platform applications using frameworks like Flutter. From concept to deployment, I thrive on creating seamless experiences for iOS and Android devices.
@@ -36,14 +36,15 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/snehaparkar/)
 
+</br>
 ---
-</br>
-</br>
+
+
 
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
 
 ## :hammer_and_wrench: &nbsp;  Languages and Tools :
-
+</br>
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
@@ -61,29 +62,29 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-
+</br>
 ---
 
-</br>
-</br>
+
+
 
 <!--   https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 ## :fire: &nbsp;  My Stats :
+</br>
 <p align="left">
   <a href="https://github.com/snehaparkar">
      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=snehaparkar&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500"/>
 </a>
 </p>
-
+</br>
 ---
-</br>
-</br>
+
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 ## ⚙️ &nbsp; GitHub Analytics
-
+</br>
 <p align="left">
 <a href="https://github.com/snehaparkar">
   <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=snehaparkar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
