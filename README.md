@@ -28,19 +28,20 @@
 ---
 
 ## :fire: My Stats :
-<p align="center">
+<p align="left">
   <a href="https://github.com/snehaparkar">
      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=snehaparkar&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500"/>
 </a>
 </p>
 
+
 ---
 
 ## ⚙️ &nbsp; GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/snehaparkar">
-  <img height="180em" style="margin-right:2em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=snehaparkar&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=snehaparkar&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=snehaparkar&layout=compact&langs_count=8&theme=vision-friendly-dark/>
 </a>
 </p>
