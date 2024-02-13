@@ -23,7 +23,7 @@
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
 
 ## :woman_technologist: About Me :
- </br> 
+
 - :computer: On the web, I specialize in front-end development, bringing designs to life with HTML, CSS, Jquery and JavaScript. I also dive into frameworks like React and Backbone to build dynamic and responsive web applications.
 
 - :iphone:  In the mobile realm, I excel in developing cross-platform applications using frameworks like Flutter. From concept to deployment, I thrive on creating seamless experiences for iOS and Android devices.
@@ -40,7 +40,7 @@
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
 
 ## :hammer_and_wrench: &nbsp;  Languages and Tools :
-</br>
+
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
@@ -64,7 +64,7 @@
 <!--   https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 ## :fire: &nbsp;  My Stats :
-</br>
+
 <p align="left">
   <a href="https://github.com/snehaparkar">
      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=snehaparkar&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500"/>
@@ -76,7 +76,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 ## ⚙️ &nbsp; GitHub Analytics
-</br>
+
 <p align="left">
 <a href="https://github.com/snehaparkar">
   <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=snehaparkar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
