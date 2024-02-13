@@ -6,7 +6,7 @@
 
 ---
 
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: &nbsp;  Languages and Tools :
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
@@ -28,15 +28,18 @@
 
 ---
 
-## :fire: My Stats :
+<!--   https://github-readme-streak-stats.herokuapp.com/demo/ -->
+
+## :fire: &nbsp;  My Stats :
 <p align="left">
   <a href="https://github.com/snehaparkar">
      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=snehaparkar&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500"/>
 </a>
 </p>
 
-
 ---
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
 ## ⚙️ &nbsp; GitHub Analytics
 
