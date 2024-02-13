@@ -4,7 +4,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM5M2R6bjAxaG9uejdrd2tsdDZzbnd2MzZ6N2FrOXhkdWYyZGZybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DLz5I4BGyRSOlbSC3o/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM5M2R6bjAxaG9uejdrd2tsdDZzbnd2MzZ6N2FrOXhkdWYyZGZybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DLz5I4BGyRSOlbSC3o/giphy.gif" width="70"/>
 </div>
 </br>
 
@@ -17,7 +17,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm56OHJlOXdzam50YWFnNDB2ZGU1NGhnOHBpeG1uZWU5d2FranVyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width=600 height=300 />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm56OHJlOXdzam50YWFnNDB2ZGU1NGhnOHBpeG1uZWU5d2FranVyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width=700 height=350 />
 </div>
 
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
